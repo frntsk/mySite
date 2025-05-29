@@ -1,5 +1,5 @@
 ---
-title: Home
+title: mySite
 layout: base
 ---
 # My Personal Website
