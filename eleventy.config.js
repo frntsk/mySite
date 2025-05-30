@@ -1,6 +1,5 @@
 export default function (eleventyConfig) {
     
-    eleventyConfig.addPassthroughCopy("views/assets/css");
     eleventyConfig.addPassthroughCopy("views/assets/img");
     eleventyConfig.addPassthroughCopy("views/assets/js");
     
@@ -9,7 +8,7 @@ export default function (eleventyConfig) {
 export const config = {
 
     markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
+    htmlTemplateEngine: "njk", 
 
     dir: {
         input: "views",
