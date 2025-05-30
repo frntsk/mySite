@@ -14,5 +14,9 @@ a {
 }
 
 h1 {
-    @apply text-lg font-semibold;
+    @apply text-lg font-semibold pb-2;
+}
+
+h2 {
+    @apply font-semibold;
 }
