@@ -2,4 +2,6 @@
 title: mySite
 layout: base
 ---
-# My Personal Website
+# Hey there!
+
+Welcome to my personal website.
